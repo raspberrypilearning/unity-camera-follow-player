@@ -1,7 +1,7 @@
-Drag the Main Camera to the Player in the Hierarchy so that it becomes a child.
+Sleep de Main Camera naar de speler in de Hierarchy zodat het een onderliggend GameObject wordt.
 
-![The Hierarchy window showing the Main Camera indented under the Player as a child GameObject.](images/camera-child.png)
+![Het venster Hierarchy met de main camera in de speler als een onderliggend game object.](images/camera-child.png)
 
-Adjust the Tranform position and rotation of the camera to get the camera view that you want.
+Pas de Transform Position en Rotation van de camera aan om het gewenste camerabeeld te krijgen.
 
-![The Transform component for the camera in the Inspector window showing Position settings X = 0, Y = 3, Z = -10 and Rotation Y = -20. ](images/camera-transform.png)
+![De Transform-component voor de camera in het Inspector-venster met Position-instellingen X = 0, Y = 3, Z = -10 en Rotation Y = -20. ](images/camera-transform.png)
