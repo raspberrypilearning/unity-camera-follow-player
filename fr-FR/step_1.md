@@ -1,7 +1,7 @@
-Drag the Main Camera to the Player in the Hierarchy window so that it becomes a child GameObject of the Player.
+Fais glisser la Main Camera vers le Player dans la fenêtre Hierarchy de façon à ce qu'elle devienne un GameObject enfant du joueur.
 
-![The Hierarchy window showing the Main Camera indented under the Player as a child GameObject.](images/camera-child.png)
+![La fenêtre Hierarchy montre la Main Camera en retrait sous le joueur en tant que GameObject enfant.](images/camera-child.png)
 
-Adjust the Tranform position and rotation of the camera to get the camera view that you want.
+Ajuste la position Tranform et la rotation de la caméra pour obtenir la vue de la caméra que tu souhaites.
 
-![The Transform component for the camera in the Inspector window showing Position settings x = 0, y = 3, z = -10 and Rotation y = -20.](images/camera-transform.png)
+![Le composant Transform pour la caméra dans la fenêtre Inspector montrant les paramètres de position x = 0, y = 3, z = -10 et la rotation y = -20.](images/camera-transform.png)
